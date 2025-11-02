@@ -452,17 +452,6 @@ Runs Jest tests for React components and utility functions.
 
 SolMentor is designed to be deployed through AImpact.dev, the AI-powered platform for building and launching Solana applications.
 
-### Deployment Checklist
-
-- [ ] Smart contract built and deployed to Devnet
-- [ ] Frontend built and tested locally
-- [ ] Environment variables configured
-- [ ] Wallet integration tested with multiple wallet providers
-- [ ] Program ID updated in all configuration files
-- [ ] Twitter announcement prepared
-
-For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
-
 ## Roadmap
 
 ### Current Features (MVP)
@@ -487,28 +476,7 @@ For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 - Partnerships with Solana development bootcamps
 - Mobile app with push notifications for streaks
 
-## Contributing
 
-We welcome contributions from the community! Whether you're fixing bugs, improving documentation, or adding new features, your help is appreciated.
-
-### How to Contribute
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow the existing code style
-- Write tests for new features
-- Update documentation as needed
-- Keep commits focused and atomic
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -533,5 +501,5 @@ If you find SolMentor helpful, consider:
 
 ---
 
-Built with passion for the Solana ecosystem. Learn today, build tomorrow.
+Built with passion for the Solana ecosystem.
 
